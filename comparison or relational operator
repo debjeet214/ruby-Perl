@@ -1,0 +1,7 @@
+puts "equality check : #{10 == 20}"
+puts "not equality : #{10 != 20}"
+puts "greater than : #{10>20}"
+puts "less than : #{10>20}"
+puts "less than equal : #{10<=20}"
+puts "greater than equal #{10>=2}"
+puts "greater than equal #{10>=10}"
