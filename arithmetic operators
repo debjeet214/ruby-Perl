@@ -1,0 +1,6 @@
+puts "addition = #{10+20}"
+puts "substraction = #{10-20}"
+puts "multiplication = #{10*20}"
+puts "division = #{10/20}"
+puts "modulous = #{10%20}"
+puts "exponant = #{10**2}"
