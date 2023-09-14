@@ -1,0 +1,32 @@
+Arr1 = [1, 2, 6, 21, 5, 65]
+puts Arr1.at(3)
+puts Arr1.fetch(4)
+print Arr1.take(3)
+puts
+print Arr1.push(6)
+puts
+print Arr1 << (7)
+puts
+print Arr1.unshift(0)
+puts
+print Arr1.insert(4,4.5)
+puts
+print Arr1.drop(2)
+puts
+print Arr1.pop
+puts
+print Arr1
+puts
+print Arr1.shift
+puts
+print Arr1
+puts
+print Arr1.delete(5)
+puts
+print Arr1
+puts
+print Arr1.uniq
+puts
+print Arr1
+puts
+puts Arr1
