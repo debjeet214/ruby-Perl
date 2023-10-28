@@ -1,4 +1,4 @@
-#create switch case 
+ #create switch case 
 print "enter the number for month"
 month = gets.chomp.to_i
 
